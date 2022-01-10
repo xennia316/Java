@@ -1,3 +1,7 @@
+/**
+ * Scanning user inputs first then summing the inputted numbers.
+ * by @xennia316
+ */
 import java.util.Scanner;
 public class AddTwoNumbers2
 {
@@ -17,6 +21,6 @@ public class AddTwoNumbers2
         sum = num1 + num2;
 
         System.out.println("sum of these numbers: "+sum);
-        
+
     }
 }
