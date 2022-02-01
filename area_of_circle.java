@@ -16,5 +16,6 @@ import java.util.Scanner;
         double area = (22 * r * r) / 7;
 
         System.out.println("Area of circle is: "+area);
+        
     }
- }
+ }     
